@@ -1,0 +1,23 @@
+The best tool for Internet research is not a comprehensive list of 
+favorite sites, but rather a repertory of a few efficient search engines 
+and reliable indexes, together with a basic understanding of how to use 
+them. The starting place for almost any Internet search is  Google .  
+This site's use 
+of keywords is simple and efficient. Word groups set off by quotation 
+marks are treated as single units. Thus the search term  "fairy 
+tales"  will find only web sites containing that phrase, but not the 
+same words appearing separately. The keywords  "little mermaid" 
+copenhagen  will find sites containing  Copenhagen  and  Little 
+Mermaid  in any order, but  Little Mermaid  must appear as an 
+unbroken phrase. Google, like most search engines, is not case sensitive; 
+lower-case letters can substitute for upper-case ones, and vice versa.  
+
+Although Google is very thorough, one can usually locate further sites by 
+conducting the same search with additional engines. The following are 
+proven performers:  
+ 
+ Excite .  
+ Lycos .  
+ Teoma .  
+ Webcrawler .  
+ Yahoo! .
